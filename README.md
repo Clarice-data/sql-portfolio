@@ -18,7 +18,7 @@ i revised the original logic to fix boundary conditions in the overdue buckets a
 ### [new_patient_exam.sql](new_patient_exam.sql)
 pulls new patient exam records for a given date range, including referral source and provider.
 
-### birthday_query.sql
+### [birthday_query.sql](birthday_query.sql)
 identifies patients with appointments near their birthday within a given month.
 
 ## tools
