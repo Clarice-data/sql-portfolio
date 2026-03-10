@@ -15,7 +15,7 @@ all patient data, provider names, and practice information has been removed.
 tracks active patients by recall status — who's scheduled, who's overdue, and how overdue.
 i revised the original logic to fix boundary conditions in the overdue buckets and added a missing 0-6 month category.
 
-### new_patient_exam.sql
+### [new_patient_exam.sql](new_patient_exam.sql)
 pulls new patient exam records for a given date range, including referral source and provider.
 
 ### birthday_query.sql
