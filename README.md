@@ -11,7 +11,7 @@ all patient data, provider names, and practice information has been removed.
 
 ## what's here
 
-### recall_report.sql
+### [recall_report.sql](recall_report.sql)
 tracks active patients by recall status — who's scheduled, who's overdue, and how overdue.
 i revised the original logic to fix boundary conditions in the overdue buckets and added a missing 0-6 month category.
 
